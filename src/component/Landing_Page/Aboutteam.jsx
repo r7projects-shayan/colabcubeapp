@@ -6,11 +6,7 @@ const contributor = [
     title: "Shayan Chakraborty",
     text: "FullStack Developer, Founder",
   },
-  {
-    url: "https://plus.unsplash.com/premium_photo-1661927982818-9f7ea45c45ab?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bWFuJTIwc2lsaG91ZXR0ZXxlbnwwfHwwfHx8MA%3D%3D",
-    title: "Noman Mazhar",
-    text: "AIML Developer, Generative AI Specialist",
-  },
+
  
 ];
 const AboutTeam = () => {
